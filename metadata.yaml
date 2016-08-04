@@ -1,0 +1,29 @@
+_repo: Froudacity--West-Indian-Fables-by-James-Anthony-Froude-Explained-by-J.-J.-Thomas_4068
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thomas, J. J. (John Jacob)
+    alias: Thomas, John Jacob
+    birthdate: 1840
+    deathdate: 1889
+    gutenberg_agent_id: '1380'
+    url: http://www.gutenberg.org/2009/agents/1380
+description: ''
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4068'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'West Indies -- Description and travel'
+- !lcsh 'West Indies, British -- Description and travel'
+- !lcsh 'Race relations'
+- !lcc 'F975'
+- !lcsh 'Great Britain -- Colonies -- America -- Administration'
+- !lcsh 'Froude, James Anthony, 1818-1894. English in the West Indies'
+- GITenberg
+title: Froudacity; West Indian Fables by James Anthony Froude Explained by J. J. Thomas
+url: http://www.gutenberg.org/ebooks/4068
